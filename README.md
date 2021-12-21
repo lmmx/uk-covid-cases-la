@@ -1,6 +1,8 @@
 # uk-covid-cases-la
 
-Plot of UK COVID cases by local authority
+Plot of UK COVID cases by local authority (confirming a hunch that median age correlated with surges)
+
+![](https://raw.githubusercontent.com/lmmx/uk-covid-cases-la/master/scatter.png)
 
 - `data/ons_local_authority_median_age.tsv` came from columns C,D,E,G (row 16 onwards) in the sheet
   "Median age and pop. density" in
